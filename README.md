@@ -3,13 +3,16 @@
 ## Create AWS Console
 
 ## CloudFormation Template
-    - Two formats, YML, JSON
+- Two formats, YML, JSON
 
-## Beginner Branch
+## Branch
 
-## Main Branch
+### Beginner Branch
+
+### Main Branch
 - Contains sample html for portfolio
 - Contains completed cloudformation template
+
 
 ## Deploy
 
